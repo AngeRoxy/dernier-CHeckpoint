@@ -1,4 +1,4 @@
-#Checkpoint — Yaha N'Guessan Ange-Roxanne Kouadio
+Checkpoint — Yaha N'Guessan Ange-Roxanne Kouadio
 
  1. À quel point suis-je prête à entamer une nouvelle étape ?
 
@@ -12,7 +12,6 @@ Je suis prête à :
 - Continuer à apprendre en autonomie, notamment sur Next.js, le cloud et la sécurité
 - Développer mon activité freelance avec des clients locaux et internationaux
 
----
 
  2. Pensées sur les compétences acquises pendant le Bootcamp
 
